@@ -1,0 +1,39 @@
+body {
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.header, .intro, .footer {
+    background-color: #1F3937;
+}
+
+.intro-title {
+    font: 48px 800 #F9FAF8;
+}
+
+.intro-text {
+    font: 18px #E5E7EB;
+}
+
+.logo {
+    font: 24px #F9FAF8;
+}
+
+.card-info {
+    font: 36px 800 #1F2937;
+}
+
+.card, .action {
+    color: #3882F6;
+}
+
+.quote {
+    color: #E5E7EB;
+}
+
+.quote-text {
+    font: 36px 300 italic #1F2937;
+}
