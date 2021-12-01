@@ -11,19 +11,25 @@ body {
 }
 
 .intro-title {
-    font: 48px 800 #F9FAF8;
+    font-size: 48px;
+    font-weight: 800; 
+    color: #F9FAF8
 }
 
 .intro-text {
-    font: 18px #E5E7EB;
+    font-size: 18px; 
+    color: #E5E7EB;
 }
 
 .logo {
-    font: 24px #F9FAF8;
+    font-size: 24px;
+    color: #F9FAF8;
 }
 
 .card-info {
-    font: 36px 800 #1F2937;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
 }
 
 .card, .action {
@@ -35,5 +41,8 @@ body {
 }
 
 .quote-text {
-    font: 36px 300 italic #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
 }
